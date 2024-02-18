@@ -1,4 +1,4 @@
-# Celery Email Sender
+# Celery_Email_Sender
 
 # Celery Email Sender: Automate Email Sending with Celery and Python
 
